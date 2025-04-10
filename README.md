@@ -7,30 +7,30 @@
 
 ### 💻 About Me
 
-- 🧠 **Mindset:** Skeptic, analyze, test, don't take things at face value  
-- 📍 **Currently working on:** Developing products with the **React, TypeScript, Next.js, Node.js** stack  
-- ⚡ **Automation:** Figma → React + CSSModules layout generation, crypto bots, analytics  
-- 🧪 **Experiments:** Passive income strategies ($10k–$100k/month goal)  
-- 🧭 **Goal:** Business products, trading, automation, investments  
+- 🧠 **Mindset:** Skeptic, analyze, test, don't take things at face value
+- 📍 **Currently working on:** Developing products with the **React, TypeScript, Next.js, Node.js** stack
+- ⚡ **Automation:** Figma → React + CSSModules layout generation, crypto bots, analytics
+- 🧪 **Experiments:** Passive income strategies ($10k–$100k/month goal)
+- 🧭 **Goal:** Business products, trading, automation, investments
 
 ---
 
 ### 🚀 Current Projects
 
-- 🧩 Layout generator from Figma → React + CSS Modules  
-- 🤖 Trading bots — signals + indicators + telemetry  
-- 📊 Web dashboard for deal analysis and signal rating  
-- 🛠️ Mini-services for personal efficiency (Telegram + web)  
+- 🧩 Layout generator from Figma → React + CSS Modules
+- 🤖 Trading bots — signals + indicators + telemetry
+- 📊 Web dashboard for deal analysis and signal rating
+- 🛠️ Mini-services for personal efficiency (Telegram + web)
 
 ---
 
 ### 🧠 Focused on:
 
-- Fast MVP development  
-- Automation and low-code approaches  
-- Using AI in development  
-- Data visualization and analysis  
-- Cross-linking between products  
+- Fast MVP development
+- Automation and low-code approaches
+- Using AI in development
+- Data visualization and analysis
+- Cross-linking between products
 
 ---
 
@@ -60,10 +60,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sardar-Atabekov&show_icons=true&theme=radical&title_color=0e76a8&" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sardar-Atabekov&show_icons=true&theme=radical&title_color=0e76a8&text_color=333333&bg_color=ffffff&border_color=dddddd"
+  />
 </p>
 
-### 🧠 Most Used Languages: 
+### 🧠 Most Used Languages:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sardar-Atabekov&layout=compact&theme=radical" />
 </p>
@@ -72,11 +74,11 @@
 
 ### 🧭 Goals
 
-- 💸 Reach $10k+ passive income through AI and crypto bot automation  
+- 💸 Reach $10k+ passive income through AI and crypto bot automation
 
 ---
 
 ### 📬 Contact
 
-- Telegram: [@SardarAtabekov](https://t.me/SardarAtabekov)  
-- GitHub: [Sardar-Atabekov](https://github.com/Sardar-Atabekov)  
+- Telegram: [@SardarAtabekov](https://t.me/SardarAtabekov)
+- GitHub: [Sardar-Atabekov](https://github.com/Sardar-Atabekov)
