@@ -60,9 +60,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sardar-Atabekov&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sardar-Atabekov&show_icons=true&theme=radical&title_color=0e76a8&" />
 </p>
 
+### 🧠 Most Used Languages: 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sardar-Atabekov&layout=compact&theme=radical" />
 </p>
