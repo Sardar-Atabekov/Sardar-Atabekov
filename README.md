@@ -79,5 +79,5 @@
 
 ### 📬 Contact
 
-- Telegram: [@SardarAtabekov](https://t.me/Sardar_Atabekov)
+- Telegram: [@Sardar_Atabekov](https://t.me/Sardar_Atabekov)
 - GitHub: [Sardar-Atabekov](https://github.com/Sardar-Atabekov)
