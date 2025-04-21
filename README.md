@@ -55,21 +55,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
 ![REST API](https://img.shields.io/badge/-REST-02569B?logo=visual-studio-code&logoColor=fff&style=flat)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sardar-Atabekov&show_icons=true&theme=radical&title_color=0a66c2&icon_color=70b5f9&text_color=ffffff&bg_color=000000&border_color=0a66c2&hide_border=false" />
-</p>
-
-### 🚀 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sardar-Atabekov&layout=compact&theme=radical&title_color=0a66c2&icon_color=70b5f9&text_color=ffffff&bg_color=000000&border_color=0a66c2&hide_border=false" />
-</p>
-
----
 
 ### 🧭 Goals
 
