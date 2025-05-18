@@ -18,9 +18,9 @@
 ### 🚀 Current Projects
 
 - 🧩 Layout generator by Figma → React + Tailwind / CSS Modules
-- 🤖 Trading bots - signals + indicators + telemetry
+- 🛠️ Interactive CLI generator of frontend and backend projects with customizable stack & architecture
+- 🤖 Trading bots – signals + indicators + telemetry
 - 📊 Web panel for analyzing trades and evaluating signals
-- 🛠️ Interactive CLI generator of frontend and backend projects with customizable stack & architecture  
 
 ---
 
@@ -36,25 +36,42 @@
 
 ### 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-e34f26?logo=html5&logoColor=fff&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=fff&style=flat)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38b2ac?logo=tailwind-css&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=000&style=flat)
-![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61dafb&style=flat)
-![React Router](https://img.shields.io/badge/-ReactRouter-ca4245?logo=react-router&logoColor=fff&style=flat)
-![Redux](https://img.shields.io/badge/-Redux-764abc?logo=redux&logoColor=fff&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=fff&style=flat)
-![ChartJS](https://img.shields.io/badge/-ChartJS-ff6384?logo=chart.js&logoColor=fff&style=flat)
-![i18next](https://img.shields.io/badge/-i18next-26A69A?logo=react&logoColor=fff&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ed?logo=docker&logoColor=fff&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
-![REST API](https://img.shields.io/badge/-REST-02569B?logo=visual-studio-code&logoColor=fff&style=flat)
+**Frontend:**
 
+<img src="https://cdn.simpleicons.org/html5/e34f26" width="20"/> HTML  
+<img src="https://cdn.simpleicons.org/css3/1572b6" width="20"/> CSS  
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="20"/> TailwindCSS  
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="20"/> JavaScript  
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="20"/> TypeScript  
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="20"/> React  
+<img src="https://cdn.simpleicons.org/nextdotjs/000000" width="20"/> Next.js  
+<img src="https://cdn.simpleicons.org/redux/764ABC" width="20"/> Redux  
+<img src="https://cdn.simpleicons.org/zustand/000000" width="20"/> Zustand  
+<img src="https://cdn.simpleicons.org/reactrouter/CA4245" width="20"/> React Router  
+<img src="https://cdn.simpleicons.org/chartdotjs/FF6384" width="20"/> Chart.js  
+<img src="https://cdn.simpleicons.org/i18next/26A69A" width="20"/> i18next  
+<img src="https://cdn.simpleicons.org/vite/646CFF" width="20"/> Vite  
+<img src="https://cdn.simpleicons.org/bun/B2B2B2" width="20"/> Bun
+
+**Backend:**
+
+<img src="https://cdn.simpleicons.org/node.js/339933" width="20"/> Node.js  
+<img src="https://cdn.simpleicons.org/express/000000" width="20"/> Express.js  
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="20"/> MongoDB  
+<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="20"/> PostgreSQL  
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="20"/> Docker  
+<img src="https://cdn.simpleicons.org/git/F05032" width="20"/> Git  
+<img src="https://cdn.simpleicons.org/sentry/362D59" width="20"/> Sentry
+
+**Testing & CI:**
+
+<img src="https://cdn.simpleicons.org/jest/C21325" width="20"/> Jest  
+<img src="https://cdn.simpleicons.org/vitest/6E9F18" width="20"/> Vitest  
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="20"/> CI/CD  
+<img src="https://cdn.simpleicons.org/husky/000000" width="20"/> Husky  
+<img src="https://cdn.simpleicons.org/testinglibrary/E33332" width="20"/> React Testing Library
+
+---
 
 ### 🧭 Goals
 
