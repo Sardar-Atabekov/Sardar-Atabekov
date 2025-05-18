@@ -17,10 +17,10 @@
 
 ### 🚀 Current Projects
 
-- 🧩 Layout generator from Figma → React + CSS Modules
-- 🤖 Trading bots — signals + indicators + telemetry
-- 📊 Web dashboard for deal analysis and signal rating
-- 🛠️ Mini-services for personal efficiency (Telegram + web)
+- 🧩 Layout generator by Figma → React + Tailwind / CSS Modules
+- 🤖 Trading bots - signals + indicators + telemetry
+- 📊 Web panel for analyzing trades and evaluating signals
+- 🛠️ Interactive CLI generator of frontend and backend projects with customizable stack & architecture  
 
 ---
 
